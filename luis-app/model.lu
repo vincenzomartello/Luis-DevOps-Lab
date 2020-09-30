@@ -1,16 +1,19 @@
 
 > LUIS application information
-> !# @app.name = DevOpsSample
+> !# @app.name = DEV-update-luis-sample
 > !# @app.desc = Sample app for the LUIS DevOps guidance
 > !# @app.versionId = 0.1
 > !# @app.culture = en-us
-> !# @app.luis_schema_version = 6.0.0
+> !# @app.luis_schema_version = 7.0.0
+> !# @app.tokenizerVersion = 1.0.0
+
 
 > # Intent definitions
 
 ## None
 - a long time ago i went to vienna
 - don't you think that san francisco is a beautiful city
+- great that we can do devops with luis
 - if you're going to denver i wouldn't be starting from here
 - i'm working away the next two weeks
 - it takes me the best part of a day to get to edinburgh
@@ -18,6 +21,7 @@
 - my nearest airport is manchester
 - the easter holiday is early april this year
 - the swiss alps is one of my favorite places
+- today is sunny !
 - usually i work from home
 
 
